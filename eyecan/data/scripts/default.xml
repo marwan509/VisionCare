@@ -1,0 +1,5 @@
+<action>
+	<blink>F12</blink>
+	<click>F12</click>
+	<short_click>F12</short_click>
+</action>

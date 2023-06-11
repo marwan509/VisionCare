@@ -1,0 +1,32 @@
+<program>
+    <framerate>60.000000</framerate>
+    <opaqueWindow>1.000000</opaqueWindow>
+    <loadExternal>0.000000</loadExternal>
+    <bgColor_r>63.750000</bgColor_r>
+    <bgColor_g>89.250000</bgColor_g>
+    <bgColor_b>128.916672</bgColor_b>
+    <alarmTone>audio/ctu24b.mp3</alarmTone>
+    <locale>eng</locale>
+</program>
+<mouse>
+    <compensationBox>50.000000</compensationBox>
+    <clickhelperBox>125.333336</clickhelperBox>
+    <useCompensation>1.000000</useCompensation>
+    <useClickHelper>1.000000</useClickHelper>
+</mouse>
+<decoder>
+    <shortClickTime>0.387778</shortClickTime>
+    <clickTime>0.503889</clickTime>
+    <longClickTime>1.847222</longClickTime>
+    <dwellTime>5.450000</dwellTime>
+    <stayMotionRange>56.444443</stayMotionRange>
+</decoder>
+<input>
+    <mode>0.000000</mode>
+    <videoFile />
+    <videoGrabber>
+        <deviceId>0.750000</deviceId>
+        <width>640.000000</width>
+        <height>480.000000</height>
+    </videoGrabber>
+</input>

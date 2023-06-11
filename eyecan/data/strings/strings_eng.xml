@@ -1,0 +1,27 @@
+<pctrl_pause>PAUSED</pctrl_pause>
+<calib_need_calibration>Need Calibration!</calib_need_calibration>
+<calib_no_record>No Calibration Record Available</calib_no_record>
+<calib_score_is>Your Score: </calib_score_is>
+<calib_score_is_end> !</calib_score_is_end>
+<mouse_ready>Ready.</mouse_ready>
+<mouse_help_f12>Press F8 Key to Activate</mouse_help_f12>
+<mouse_locked>LOCKED</mouse_locked>
+<mouse_dragging>Dragging...</mouse_dragging>
+<mouse_scrolling>Scrolling...</mouse_scrolling>
+<mouse_help_1>Close->Click->Adv. Click</mouse_help_1>
+<mouse_help_2>Close->Click</mouse_help_2>
+<mouse_out_top>Out:TOP</mouse_out_top>
+<mouse_out_bottom>Out:BOTTOM</mouse_out_bottom>
+<mouse_out_left>Out:LEFT</mouse_out_left>
+<mouse_out_right>Out:RIGHT</mouse_out_right>
+<mouse_closed>...</mouse_closed>
+<mouse_closed_click>...Click...</mouse_closed_click>
+<mouse_closed_long>...Adv. Click</mouse_closed_long>
+<mouse_click_helper>[Adv. Click]</mouse_click_helper>
+<mouse_click_helper_ok>[Adv. Click] OK</mouse_click_helper_ok>
+<mouse_help_click_helper>Look into the direction to control cursor</mouse_help_click_helper>
+<mouse_do_error_comp>[Error Fix] Started</mouse_do_error_comp>
+<mouse_error_comp>[Error Fix]</mouse_error_comp>
+<mouse_error_comp_ok>[Error Fix] OK</mouse_error_comp_ok>
+<mouse_cancel_error_comp>[Error Fix] Cancel</mouse_cancel_error_comp>
+<mouse_help_error_comp>Look at the Mouse Cursor</mouse_help_error_comp>
